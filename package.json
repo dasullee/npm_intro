@@ -20,7 +20,7 @@
   "homepage": "https://github.com/dasullee/npm_intro#readme",
   "dependencies": {
     "babel-plugin-syntax-async-functions": "^6.13.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "react": "^16.8.6"
   },
   "devDependencies": {
